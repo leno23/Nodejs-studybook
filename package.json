@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-studybook",
+  "version": "1.0.0",
+  "description": "记录自己学习Nodejs的过程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leno23/Nodejs-studybook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leno23/Nodejs-studybook/issues"
+  },
+  "homepage": "https://github.com/leno23/Nodejs-studybook#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chokidar": "^3.5.3",
+    "koa": "^2.13.4"
+  }
+}
